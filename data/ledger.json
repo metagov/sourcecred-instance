@@ -1,1 +1,4 @@
-[]
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000l8oIazNuabsV25wFmO51nQ\u0000","aliases":[],"id":"l8oIazNuabsV25wFmO51nQ","name":"system","subtype":"BOT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1609802340026,"uuid":"O1mMRBxY96Qj2rG6J0ahXg","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discourse\u0000user\u0000https://discourse.metagov.org\u0000system\u0000","description":"discourse/[@system](https://discourse.metagov.org/u/system/)"},"identityId":"l8oIazNuabsV25wFmO51nQ","type":"ADD_ALIAS"},"ledgerTimestamp":1609802340027,"uuid":"8e39qsWm1i3zXwIMAByDeQ","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000tMKLBQ1rfbOpILhkYQ91VA\u0000","aliases":[],"id":"tMKLBQ1rfbOpILhkYQ91VA","name":"SourceCred","subtype":"PROJECT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1609802340044,"uuid":"MGT1V55ELi1VQWSo9eVioA","version":"1"}
+{"action":{"identityId":"tMKLBQ1rfbOpILhkYQ91VA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1609802340044,"uuid":"EoD3whP8xxlDFl21Y8lMmQ","version":"1"}
